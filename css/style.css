@@ -1,0 +1,19 @@
+h1{
+    color: maroon;
+    text-align: center;
+    border-color:antiquewhite;
+    border-width: 3px;
+    border-style: solid;
+}
+
+p{
+    color: brown;
+}
+
+h3{
+    color:burlywood ;
+}
+
+body{
+    background-color: black;
+}
